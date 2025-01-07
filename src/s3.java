@@ -4,7 +4,7 @@ public class s3 {
         String str ="hello";
         int  len = str.length();
         System.out.println(str.length());
-        System.out.println(str.charAt(index:0));
+       
         
     }
 }
